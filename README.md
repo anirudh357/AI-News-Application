@@ -14,4 +14,5 @@ Future Plans:
 
 1) Dark mode 🌒
 2) Opening Sources with Voice 🎙️
-3) On operate it on android apps ![HelloGIF](https://user-images.githubusercontent.com/76739126/163259246-ddacc193-eb1a-40da-8c3e-87b200a22632.gif)
+3) To operate it on android apps like music ![AndroidAndroidOsGIF](https://user-images.githubusercontent.com/76739126/163260161-11d505e8-2ce3-43ea-a868-c91a00501e64.gif)
+
