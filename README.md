@@ -16,4 +16,4 @@ Future Plans:
 2) Opening Sources with Voice 🎙️
 3) To operate it on android apps like music ![AndroidAndroidOsGIF](https://user-images.githubusercontent.com/76739126/163260161-11d505e8-2ce3-43ea-a868-c91a00501e64.gif)
 
-h
+Please leave a star for motivation.
