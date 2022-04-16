@@ -1,5 +1,6 @@
 
-<img width="320" alt="68747470733a2f2f692e6962622e636f2f5356794b364e682f53637265656e73686f742d323032302d30382d30332d61742d32312d32342d32332e706e67" src="https://user-images.githubusercontent.com/76739126/163259988-912f0b10-22d9-4608-874b-6523c5a7e9f2.png">
+<img width="1280" alt="2022-04-16 (3)" src="https://user-images.githubusercontent.com/76739126/163685437-75f5f653-838a-469a-85d2-55b6b0f4f833.png">
+
 
 
 Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice. Another huge benefit is that it's extremely easy to integrate it.
