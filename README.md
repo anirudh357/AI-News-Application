@@ -19,7 +19,9 @@ AlanAI GitHub Repo for ideas - https://github.com/alan-ai
 # How to use?
 
 ⭐ Press the 🎙️ button at bottom right. Then speak "Give me the latest news" or "Give the latest technology news".
+
 ⭐ Then after getting the news on the page, it will ask "sholud I read the news", then say "Yes", then it will continue reading news from first to last news.
+
 ⭐ Now you can click on any news you want to see, and it will redirect you to that source news page or website.
 
 Setup:
